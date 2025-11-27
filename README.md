@@ -5,7 +5,7 @@ Includes Navbar, Hero Section, Explore Places, City Cards, Footer, and smooth sc
 
 ## Features
 
-Fully Responsive (Mobile + Tablet + Desktop)
+--Fully Responsive (Mobile + Tablet + Desktop)
 
 Sticky Navigation Bar on scroll
 
