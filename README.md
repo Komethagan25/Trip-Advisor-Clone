@@ -11,39 +11,39 @@ Includes Navbar, Hero Section, Explore Places, City Cards, Footer, and smooth sc
 
 - Hero Section with background image
 
--Explore Places section
+- Explore Places section
 
--City cards with images & ratings
+- City cards with images & ratings
 
--Clean layout + modern UI
+- Clean layout + modern UI
 
--Only HTML & CSS 
+- Only HTML & CSS 
 
 ## Technologies Used
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
 ## 🔧 How to Run
 
-Download or clone the repository
+- Download or clone the repository
 
-git clone <your-repo-link>
+     git clone https://github.com/Komethagan25/Trip-Advisor-Clone
 
 
-Open index.html in any browser.
+- Open index.html in any browser.
 
 
 ## 📌 Future Improvements
 
-Add dark mode
+- Add dark mode
 
-Add animations
+- Add animations
 
-Add image hover effects
+- Add image hover effects
 
-Add booking page
+- Add booking page
 
 ## Thank You
 
